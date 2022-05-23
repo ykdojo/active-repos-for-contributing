@@ -152,3 +152,17 @@ Built on: TypeScript, JavaScript, HTML etc.
 https://github.com/novuhq/novu
 
 Issues for first timers: https://github.com/novuhq/novu/contribute
+
+
+---
+
+## Watchflix
+
+> Movie recomendation platform that gets data from The Movie Database (TMDB) API.
+
+Built on: JavaScript
+
+https://github.com/carlagesa/Watchflix
+
+Issues for first timers: https://github.com/carlagesa/Watchflix/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
+
